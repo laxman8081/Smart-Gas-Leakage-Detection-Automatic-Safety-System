@@ -1,2 +1,2 @@
 # Smart-Gas-Leakage-Detection-Automatic-Safety-System
-Arduino-based smart gas leakage detection system using MQ-2, SIM800L, relay, exhaust fan, and servo motor for automatic safety control and SMS alerts
+Academic IoT safety project (BCA Cyber Security & Forensics): an Arduino UNO and MQ-2–based gas leakage detection system with SIM800L SMS alerting, relay-driven exhaust ventilation, buzzer warning, and servo-actuated gas regulator/valve protection.
